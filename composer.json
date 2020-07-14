@@ -1,0 +1,13 @@
+{
+    "name": "atha/cli-bot",
+    "description": "Just a simple javascript - PHP app",
+    "keywords": ["php", "js", "javascript", "command-line", "bot"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ]
+}
